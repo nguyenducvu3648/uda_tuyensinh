@@ -1,0 +1,7 @@
+gradio
+qdrant-client
+sentence-transformers
+google-generativeai
+python-dotenv
+torch
+transformers
